@@ -4,5 +4,11 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ubuntu
-centos
+#ubuntu
+#centos
+kube-apiserver:v1.31.1
+python3
+java:17
+java:21
+airplane
+busybox
