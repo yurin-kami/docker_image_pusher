@@ -16,3 +16,5 @@
 #airplane
 busybox
 #gitlab:latest
+redis
+nacos/nacos-server:v2.5.0
