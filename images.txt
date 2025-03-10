@@ -9,3 +9,5 @@ maven
 tomcat
 mysql:5.7
 mysql
+ubuntu:22.0
+centos
