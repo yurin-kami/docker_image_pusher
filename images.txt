@@ -7,14 +7,7 @@
 #ubuntu
 #centos
 #kube-apiserver:v1.31.1
-<<<<<<< HEAD
-#python3
-=======
->>>>>>> a5f678e3df8d74870446724714ee17add2e9526b
-#java:17
-#java:21
-#airplane
-busybox
-#gitlab:latest
-redis:latest
-nacos-server
+docker.io/python:3.10-slim
+docker.io/python:3.12-slim
+docker.io/python:3.8-slim
+
