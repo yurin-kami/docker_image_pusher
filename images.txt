@@ -10,4 +10,3 @@
 docker.io/python:3.10-slim
 docker.io/python:3.12-slim
 docker.io/python:3.8-slim
-
