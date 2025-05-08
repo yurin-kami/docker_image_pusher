@@ -7,17 +7,14 @@
 #ubuntu
 #centos
 #kube-apiserver:v1.31.1
-<<<<<<< HEAD
 #docker.io/mysql:5.7
 #docker.io/redis:latest
 #docker.io/nginx:latest
-docker.io/dockette/nodejs:v18
-=======
 #docker.io/python:3.10-slim
 #docker.io/python:3.12-slim
 #docker.io/python:3.8-slim
 #docker.io/redis:latest
 #docker.io/mysql:5.7
 #docker.io/nginx:latest
-#docker.io/openjdk:8-jdk-alpine
->>>>>>> 13bac547ec4935f6a460b6b193d42ae9d5ce79c2
+docker.io/dockette/nodejs:v18
+
