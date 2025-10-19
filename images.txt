@@ -19,3 +19,4 @@
 #docker.io/dockette/nodejs:v18
 docker.io/postgres
 docker.io/postgres
+docker.io/rockylinux
