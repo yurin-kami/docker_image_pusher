@@ -17,6 +17,5 @@
 #docker.io/mysql:5.7
 #docker.io/nginx:latest
 #docker.io/dockette/nodejs:v18
-docker.io/postgres
-docker.io/postgres
-docker.io/rockylinux
+#docker.io/postgres
+docker.io/rockylinux:9
