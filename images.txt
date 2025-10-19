@@ -17,3 +17,4 @@
 #docker.io/mysql:5.7
 #docker.io/nginx:latest
 #docker.io/dockette/nodejs:v18
+docker.io/postgres
