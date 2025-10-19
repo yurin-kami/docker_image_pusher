@@ -18,3 +18,4 @@
 #docker.io/nginx:latest
 docker.io/dockette/nodejs:v18
 jenkins
+jenkins
