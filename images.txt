@@ -1,1 +1,1 @@
-docker.io/docker.io/clickhouse/clickhouse-server:latest
+docker.io/clickhouse/clickhouse-server:latest
