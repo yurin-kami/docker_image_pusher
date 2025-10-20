@@ -1,1 +1,1 @@
-docker.io/rabbitmq:3.7.15-management
+docker.io/docker.io/clickhouse/clickhouse-server:latest
