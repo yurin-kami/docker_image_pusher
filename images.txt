@@ -1,1 +1,1 @@
-docker.io/rabbitmq:3.7.15
+docker.io/rabbitmq:3.7.15-management
