@@ -1,1 +1,1 @@
-docker.io/clickhouse/clickhouse-server:latest
+nginx:latest
