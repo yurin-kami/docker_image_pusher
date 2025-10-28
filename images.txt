@@ -1,1 +1,1 @@
-docker.io/library/maven:3.6
+docker.io/library/tomcat:9.0
