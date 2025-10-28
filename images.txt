@@ -1,1 +1,1 @@
-nginx:latest
+docker.io/library/maven:3.6
