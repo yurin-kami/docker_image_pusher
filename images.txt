@@ -1,1 +1,1 @@
-docker.io/library/maven:3.8
+docker.io/library/postgresql:latest
