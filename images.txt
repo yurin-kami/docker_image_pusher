@@ -1,1 +1,1 @@
-mongo:6.0
+bitnami/kafka:3.5
