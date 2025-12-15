@@ -1,1 +1,1 @@
-provectuslabs/kafka-ui:latest
+redis:7.0-alpine
